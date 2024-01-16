@@ -4,7 +4,9 @@
 
 JSON (acrónimo de JavaScript Object Notation, 'notación de objeto de JavaScript') es un formato de texto sencillo para el intercambio de datos. Se trata de un subconjunto de la notación literal de objetos de JavaScript, aunque, debido a su amplia adopción como alternativa a XML, se considera un formato independiente del lenguaje.
 
-![Logo](JSON_vector_logo.svg.png)
+<img src="JSON_vector_logo.svg.png" alt="Logo JSON" style="width: 300px; height: 300px;">
+
+JSON_vector_logo.svg.png
 
 ## ¿Para qué sirve JSON?
 
@@ -37,7 +39,8 @@ JSON se utiliza a menudo como alternativa a otras bases de datos y formatos de a
   ]
 }
 ```
+
 ## BIBLIOGRAFÍA
-https://www.arimetrics.com/glosario-digital/json
-https://es.wikipedia.org/wiki/JSON
+1. https://www.arimetrics.com/glosario-digital/json
+2. https://es.wikipedia.org/wiki/JSON
 
