@@ -4,6 +4,8 @@
 
 JSON (acrónimo de JavaScript Object Notation, 'notación de objeto de JavaScript') es un formato de texto sencillo para el intercambio de datos. Se trata de un subconjunto de la notación literal de objetos de JavaScript, aunque, debido a su amplia adopción como alternativa a XML, se considera un formato independiente del lenguaje.
 
+![Logo](JSON_vector_logo.svg.png)
+
 ## ¿Para qué sirve JSON?
 
 JSON se utiliza a menudo como alternativa a otras bases de datos y formatos de almacenamiento de datos, como XML o CSV. Es especialmente popular en aplicaciones web, donde se puede convertir fácilmente desde y hacia otros formatos como HTML y JavaScript. Además, como la sintaxis de JSON es sencilla y fácil de entender, muchos desarrolladores lo encuentran mucho más fácil de usar que otros formatos de datos.
