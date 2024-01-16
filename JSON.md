@@ -71,6 +71,6 @@ Puedes extender JSON agregando nuevos campos o estructuras según sea necesario,
 ```
 
 ## BIBLIOGRAFÍA
-1. https://www.arimetrics.com/glosario-digital/json
-2. https://es.wikipedia.org/wiki/JSON
+1. [WIKIPEDIA](https://es.wikipedia.org/wiki/JSON)
+2. [ARIMETRICS](https://www.arimetrics.com/glosario-digital/json)
 
